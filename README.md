@@ -1,6 +1,6 @@
 # Machine Translation (Sequence to Sequence)
 
-This project focuses on English to Chinese machine translation, achieving a notable BLEU (bilingual evaluation understudy) score of **29.36**.
+Performing English to Chinese machine translation resulted in the model achieving a notable bilingual evaluation understudy (BLEU) score of **29.36**.
 
 ## Data Preprocessing
 
